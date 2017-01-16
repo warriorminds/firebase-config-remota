@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>titulo_bienvenida</key>
+        <value>Aplicación de configuración remota</value>
+    </entry>
+    <entry>
+        <key>mostrar_subtitulo</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>color_subtitulo</key>
+        <value>#000000</value>
+    </entry>
+    <entry>
+        <key>texto_mostrar</key>
+        <value>Este es el texto a mostrar por defecto en la aplicación.</value>
+    </entry>
+</defaultsMap>

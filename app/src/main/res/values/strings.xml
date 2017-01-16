@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseConfigRemota</string>
+    <string name="subt_tulo">Subtítulo</string>
+    <string name="obtener_configuraci_n_remota">Obtener configuración remota</string>
+</resources>
